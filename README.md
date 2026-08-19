@@ -16,8 +16,7 @@ A modular, highly efficient Discord management and utility toolkit designed for 
 
 ## 📁 Project Structure
 
-
-`` Venom-Nuker-Tool
+Venom-Nuker-Tool
 ├── main.py              # Central entry point and terminal dashboard
 ├── utili.py             # Shared utility functions, titles, and spinners
 ├── token.txt            # Stored Discord Bot Token configuration
@@ -29,7 +28,7 @@ A modular, highly efficient Discord management and utility toolkit designed for 
     ├── 4_ModificaEveryone.py
     ├── 5_CreaCanali.py
     ├── 6_CambiaNomeServer.py
-    └── 7_EliminaEmoji.py ``
+    └── 7_EliminaEmoji.py 
 
 
 🛠️ Installation & Setup
