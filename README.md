@@ -2,7 +2,7 @@
 
 A modular, highly efficient Discord management and utility toolkit designed for administrative operations, server management, and automation tasks.
 
----
+
 
 ## 🌟 Features
 
@@ -13,11 +13,11 @@ A modular, highly efficient Discord management and utility toolkit designed for 
 *   **Server Customization:** Instant server name modification scripts.
 *   **Interactive CLI Interface:** Aesthetic cross-platform terminal interface styled using `pystyle` and `colorama`.
 
----
 
 ## 📁 Project Structure
 
-```text
+
+`` Venom-Nuker-Tool
 ├── main.py              # Central entry point and terminal dashboard
 ├── utili.py             # Shared utility functions, titles, and spinners
 ├── token.txt            # Stored Discord Bot Token configuration
@@ -29,7 +29,9 @@ A modular, highly efficient Discord management and utility toolkit designed for 
     ├── 4_ModificaEveryone.py
     ├── 5_CreaCanali.py
     ├── 6_CambiaNomeServer.py
-    └── 7_EliminaEmoji.py
+    └── 7_EliminaEmoji.py ``
+
+
 🛠️ Installation & Setup
 Clone the repository:
 
@@ -58,7 +60,7 @@ or
 
 setup.bat
 
-## Main Menu Overview
+ Main Menu Overview
 
 [1] Ban all members - Bulk bans all members in the target server.
 
@@ -75,7 +77,7 @@ setup.bat
 [7] Delete server emojis - Purges custom emojis.
 
 
-##⚙️ Requirements
+⚙️ Requirements
 
 Python 3.8+
 
