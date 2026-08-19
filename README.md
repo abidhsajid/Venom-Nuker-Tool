@@ -38,9 +38,9 @@ Clone the repository:
 
 ## Bash -
 
-git clone [https://github.com/venom/venom-tool.git](https://github.com/venom/venom-tool.git)
-cd venom-tool
-Install the required dependencies:
+git clone [https://github.com/abidhsajid/Venom-Nuker-Tool.git](https://github.com/abidhsajid/Venom-Nuker-Tool.git)
+cd Venom-Nuker-Tool
+
 
 ## Bash isntall -
 
